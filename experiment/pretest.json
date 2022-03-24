@@ -2,36 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": " In P&I diagram The symbol represents ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Solenoid Valve",
+        "b": "Control Valve",
+        "c": "Globe Valve",
+		"d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "CTR function block stands for",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Counter and Timer",
+        "b": "Countert",
+        "c": "Clock timer",
+		"d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The limit switch is --------------",
+      "answers": {
+        "a": "Digital Output",
+        "b": "Digital Input",
+        "c": "Analog Input",
+		"d": "Analog Output"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Solenoid Valve is -------",
+      "answers": {
+        "a": "Analog Input",
+        "b": "Digital input",
+        "c": "Digital output",
+		"d": "Analog Output"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To manually change the input to the function block, the simulate input must be",
+      "answers": {
+        "a": "Kept in default condition",
+        "b": "Disabled",
+        "c": "Enabled",
+		"d": "None of these"
+      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
