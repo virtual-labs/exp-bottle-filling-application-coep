@@ -1,0 +1,66 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": " In the model solution provided the field start command is ----- to start the process.",
+      "answers": {
+        "a": "Not important",
+        "b": "Optional",
+        "c": "Mandatory",
+		"d": "Not required"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The operation of lifting bottle platform and opening of coarse solenoid valve :",
+      "answers": {
+        "a": "Must be Simultaneous",
+        "b": "Coarse valve must open first",
+        "c": "Solenoid valve should open after delay",
+		"d": "None of these"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To display no of bottles filled ----- function block is used",
+      "answers": {
+        "a": "OND",
+        "b": "CTR",
+        "c": "Both",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Number of Dos involved in this process",
+      "answers": {
+        "a": "2",
+        "b": "1",
+        "c": "6",
+		"d": "4"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Number of DIs involved in this process",
+      "answers": {
+        "a": "3",
+        "b": "5",
+        "c": "7",
+		"d": "10"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
+
